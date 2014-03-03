@@ -23,3 +23,5 @@ def validate_order_input(data):
     if not validate_phone(data.get("phone")):
         errors.append("invalid phone")
     return errors
+
+# Update dependencies (2014-03-03 14:19:35 +0000)
