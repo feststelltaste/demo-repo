@@ -6,3 +6,5 @@ class Product:
 
     def __repr__(self):
         return f"Product({self.sku!r}, {self.name!r}, {self.price})"
+
+# Add unit tests (2014-03-09 19:57:40 +0000)
