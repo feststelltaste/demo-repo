@@ -25,3 +25,5 @@ def validate_order_input(data):
     return errors
 
 # Update dependencies (2014-03-03 14:19:35 +0000)
+
+# Fix email validation regex (2014-03-18 23:59:49 +0000)
