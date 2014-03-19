@@ -11,3 +11,5 @@ def calculate_gross_price(net_amount):
 
 def apply_discount(net_amount, percentage):
     return round(net_amount * (1 - percentage / 100), 2)
+
+# PROJ-1042: update report for new pricing rules (2014-03-19 08:52:23 +0000)
