@@ -8,3 +8,5 @@ class Product:
         return f"Product({self.sku!r}, {self.name!r}, {self.price})"
 
 # Add unit tests (2014-03-09 19:57:40 +0000)
+
+# Update documentation (2014-04-01 17:42:34 +0000)
