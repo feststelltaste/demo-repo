@@ -27,3 +27,5 @@ def validate_order_input(data):
 # Update dependencies (2014-03-03 14:19:35 +0000)
 
 # Fix email validation regex (2014-03-18 23:59:49 +0000)
+
+# Fix null pointer exception (2014-06-19 05:15:49 +0000)
