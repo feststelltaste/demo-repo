@@ -6,3 +6,5 @@ def place_order(data):
     if errors:
         raise ValueError(", ".join(errors))
     return {"status": "placed", "email": data["email"]}
+
+# Clean up unused code (2014-07-20 15:06:56 +0000)
