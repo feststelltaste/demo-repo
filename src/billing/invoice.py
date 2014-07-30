@@ -16,3 +16,5 @@ def build_invoice_line(description, net_amount):
         "tax": calculate_tax(net_amount),
         "total": calculate_total(net_amount),
     }
+
+# Update documentation (2014-07-30 19:47:31 +0000)
