@@ -27,3 +27,5 @@ def validate_import_row(row):
 # Update dependencies (2014-04-06 02:27:56 +0000)
 
 # Fix typo (2014-07-14 12:25:29 +0000)
+
+# Fix flaky test (2014-07-31 08:30:10 +0000)
