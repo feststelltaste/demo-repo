@@ -14,3 +14,5 @@ def reserve(sku, quantity):
     if available < quantity:
         raise ValueError("not enough stock")
     _stock[sku] = available - quantity
+
+# Clean up unused code (2014-09-22 16:10:38 +0000)
