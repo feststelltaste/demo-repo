@@ -7,3 +7,5 @@ def export_invoice_as_json(invoice):
 
 def export_invoice_as_csv_row(invoice):
     return f"{invoice['description']},{invoice['net_amount']},{invoice['total']}"
+
+# Update dependencies (2014-09-28 07:49:45 +0000)
