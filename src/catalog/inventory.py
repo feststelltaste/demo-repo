@@ -16,3 +16,5 @@ def reserve(sku, quantity):
     _stock[sku] = available - quantity
 
 # Clean up unused code (2014-09-22 16:10:38 +0000)
+
+# Improve performance (2014-10-01 06:32:42 +0000)
