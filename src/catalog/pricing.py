@@ -17,3 +17,5 @@ def apply_discount(net_amount, percentage):
 # Fix bug in checkout flow (2014-06-30 23:54:17 +0000)
 
 # Improve error handling (2014-10-12 09:06:01 +0000)
+
+# Fix null pointer exception (2014-10-19 06:11:49 +0000)
