@@ -31,3 +31,5 @@ def validate_order_input(data):
 # Fix null pointer exception (2014-06-19 05:15:49 +0000)
 
 # Add unit tests (2014-09-05 01:47:45 +0000)
+
+# Extract helper method (2014-11-03 03:13:39 +0000)
