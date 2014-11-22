@@ -19,3 +19,5 @@ def apply_discount(net_amount, percentage):
 # Improve error handling (2014-10-12 09:06:01 +0000)
 
 # Fix null pointer exception (2014-10-19 06:11:49 +0000)
+
+# Update documentation (2014-11-22 19:08:14 +0000)
