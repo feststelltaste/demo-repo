@@ -10,3 +10,5 @@ class Product:
 # Add unit tests (2014-03-09 19:57:40 +0000)
 
 # Update documentation (2014-04-01 17:42:34 +0000)
+
+# Add logging (2014-11-28 15:07:01 +0000)
