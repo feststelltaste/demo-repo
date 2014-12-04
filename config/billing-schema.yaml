@@ -9,3 +9,5 @@ invoice:
 # Fix flaky test (2014-05-08 00:39:50 +0000)
 
 # Update dependencies (2014-10-05 23:00:47 +0000)
+
+# Extract helper method (2014-12-04 03:20:03 +0000)
