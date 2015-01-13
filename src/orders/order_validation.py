@@ -37,3 +37,5 @@ def validate_order_input(data):
 # Fix null pointer exception (2014-11-18 07:19:42 +0000)
 
 # Tighten phone number validation (2014-12-08 23:10:22 +0000)
+
+# Rename variables for clarity (2015-01-13 17:26:38 +0000)
