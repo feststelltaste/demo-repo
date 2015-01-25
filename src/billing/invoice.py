@@ -28,3 +28,5 @@ def build_invoice_line(description, net_amount):
 # PROJ-1042: wire up new pricing rules (2014-11-04 16:00:05 +0000)
 
 # Improve performance (2015-01-22 12:41:37 +0000)
+
+# Fix bug in checkout flow (2015-01-25 19:46:06 +0000)
