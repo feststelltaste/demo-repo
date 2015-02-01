@@ -33,3 +33,5 @@ def validate_import_row(row):
 # Add unit tests (2014-11-03 20:50:44 +0000)
 
 # Tighten phone number validation (2014-12-08 23:10:22 +0000)
+
+# Add validation for new field format (2015-02-01 10:37:55 +0000)

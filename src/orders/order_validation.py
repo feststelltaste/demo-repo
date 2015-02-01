@@ -39,3 +39,5 @@ def validate_order_input(data):
 # Tighten phone number validation (2014-12-08 23:10:22 +0000)
 
 # Rename variables for clarity (2015-01-13 17:26:38 +0000)
+
+# Add validation for new field format (2015-02-01 10:37:55 +0000)
