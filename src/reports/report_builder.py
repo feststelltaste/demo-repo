@@ -7,3 +7,5 @@ def build_daily_report(orders):
 # PROJ-1042: wire up new pricing rules (2014-09-20 17:30:39 +0000)
 
 # Update dependencies (2014-09-23 19:15:06 +0000)
+
+# PROJ-1233: update report for new pricing rules (2015-02-02 20:54:59 +0000)
