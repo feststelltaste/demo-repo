@@ -41,3 +41,5 @@ def validate_order_input(data):
 # Rename variables for clarity (2015-01-13 17:26:38 +0000)
 
 # Add validation for new field format (2015-02-01 10:37:55 +0000)
+
+# Fix email validation regex (2015-02-10 04:51:29 +0000)
