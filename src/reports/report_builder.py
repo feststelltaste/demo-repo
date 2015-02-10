@@ -9,3 +9,5 @@ def build_daily_report(orders):
 # Update dependencies (2014-09-23 19:15:06 +0000)
 
 # PROJ-1233: update report for new pricing rules (2015-02-02 20:54:59 +0000)
+
+# Fix null pointer exception (2015-02-10 08:08:40 +0000)
