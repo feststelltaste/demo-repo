@@ -20,3 +20,5 @@ def reserve(sku, quantity):
 # Improve performance (2014-10-01 06:32:42 +0000)
 
 # Fix typo (2014-11-09 18:47:21 +0000)
+
+# Fix bug in checkout flow (2015-04-07 02:58:51 +0000)
