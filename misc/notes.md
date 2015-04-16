@@ -7,3 +7,5 @@ Random scratchpad for the team. Nothing here is load-bearing.
 - Add logging (2014-09-25 22:22:51 +0000)
 
 - Rename variables for clarity (2015-01-05 16:21:22 +0000)
+
+- Improve performance (2015-04-16 17:03:51 +0000)
