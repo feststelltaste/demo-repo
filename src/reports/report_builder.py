@@ -13,3 +13,5 @@ def build_daily_report(orders):
 # Fix null pointer exception (2015-02-10 08:08:40 +0000)
 
 # PROJ-1290: wire up new pricing rules (2015-02-17 05:03:07 +0000)
+
+# Fix bug in checkout flow (2015-05-10 17:26:17 +0000)
