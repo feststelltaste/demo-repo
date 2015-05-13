@@ -47,3 +47,5 @@ def validate_order_input(data):
 # Update dependencies (2015-03-21 00:15:01 +0000)
 
 # Extract helper method (2015-04-16 11:22:12 +0000)
+
+# Add logging (2015-05-13 22:38:44 +0000)
