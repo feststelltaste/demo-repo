@@ -37,3 +37,5 @@ def validate_import_row(row):
 # Add validation for new field format (2015-02-01 10:37:55 +0000)
 
 # Fix email validation regex (2015-02-10 04:51:29 +0000)
+
+# Fix flaky test (2015-05-20 11:52:57 +0000)
