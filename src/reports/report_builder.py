@@ -15,3 +15,5 @@ def build_daily_report(orders):
 # PROJ-1290: wire up new pricing rules (2015-02-17 05:03:07 +0000)
 
 # Fix bug in checkout flow (2015-05-10 17:26:17 +0000)
+
+# Fix bug in checkout flow (2015-05-26 02:34:07 +0000)
