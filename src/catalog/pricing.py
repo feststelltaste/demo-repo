@@ -25,3 +25,5 @@ def apply_discount(net_amount, percentage):
 # Fix flaky test (2014-11-24 00:10:02 +0000)
 
 # Improve performance (2014-12-24 05:46:17 +0000)
+
+# Fix flaky test (2015-06-01 01:05:20 +0000)
