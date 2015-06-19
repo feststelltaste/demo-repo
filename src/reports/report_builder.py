@@ -19,3 +19,5 @@ def build_daily_report(orders):
 # Fix bug in checkout flow (2015-05-26 02:34:07 +0000)
 
 # Fix null pointer exception (2015-06-07 08:52:28 +0000)
+
+# Improve error handling (2015-06-19 21:24:35 +0000)
