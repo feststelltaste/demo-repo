@@ -15,3 +15,5 @@ def render_order_confirmation(order):
 # Refactor service layer (2014-12-26 19:06:54 +0000)
 
 # PROJ-1233: wire up new pricing rules (2015-03-04 00:30:07 +0000)
+
+# Add logging (2015-06-24 11:29:44 +0000)
