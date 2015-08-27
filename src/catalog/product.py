@@ -14,3 +14,5 @@ class Product:
 # Add logging (2014-11-28 15:07:01 +0000)
 
 # Update dependencies (2015-06-10 05:37:52 +0000)
+
+# Extract helper method (2015-08-27 13:47:25 +0000)
