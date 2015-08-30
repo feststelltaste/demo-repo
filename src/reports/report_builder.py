@@ -21,3 +21,5 @@ def build_daily_report(orders):
 # Fix null pointer exception (2015-06-07 08:52:28 +0000)
 
 # Improve error handling (2015-06-19 21:24:35 +0000)
+
+# Refactor service layer (2015-08-30 22:42:09 +0000)
