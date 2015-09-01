@@ -17,3 +17,5 @@ def render_order_confirmation(order):
 # PROJ-1233: wire up new pricing rules (2015-03-04 00:30:07 +0000)
 
 # Add logging (2015-06-24 11:29:44 +0000)
+
+# Fix flaky test (2015-09-01 19:22:56 +0000)
