@@ -7,3 +7,5 @@ def cleanup_tmp_files(path):
 # Improve performance (2014-05-07 16:44:01 +0000)
 
 # Update dependencies (2015-06-27 06:38:53 +0000)
+
+# Improve error handling (2015-09-04 23:22:18 +0000)
