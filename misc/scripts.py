@@ -9,3 +9,5 @@ def cleanup_tmp_files(path):
 # Update dependencies (2015-06-27 06:38:53 +0000)
 
 # Improve error handling (2015-09-04 23:22:18 +0000)
+
+# Fix bug in checkout flow (2015-09-13 13:32:34 +0000)
