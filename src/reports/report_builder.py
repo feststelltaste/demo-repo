@@ -23,3 +23,5 @@ def build_daily_report(orders):
 # Improve error handling (2015-06-19 21:24:35 +0000)
 
 # Refactor service layer (2015-08-30 22:42:09 +0000)
+
+# Clean up unused code (2015-09-16 12:17:17 +0000)
