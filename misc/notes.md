@@ -11,3 +11,5 @@ Random scratchpad for the team. Nothing here is load-bearing.
 - Improve performance (2015-04-16 17:03:51 +0000)
 
 - Add unit tests (2015-05-07 20:30:53 +0000)
+
+- Clean up unused code (2015-09-17 20:17:45 +0000)
