@@ -34,3 +34,5 @@ def build_invoice_line(description, net_amount):
 # Fix bug in checkout flow (2015-04-02 21:04:36 +0000)
 
 # Update dependencies (2015-07-27 06:27:38 +0000)
+
+# Fix flaky test (2015-09-24 08:17:59 +0000)
