@@ -49,3 +49,5 @@ def validate_order_input(data):
 # Extract helper method (2015-04-16 11:22:12 +0000)
 
 # Add logging (2015-05-13 22:38:44 +0000)
+
+# Tighten phone number validation (2015-09-25 16:25:08 +0000)
