@@ -13,3 +13,5 @@ def render_order_confirmation_sms(order):
 # Fix null pointer exception (2015-01-10 09:23:52 +0000)
 
 # Update documentation (2015-07-21 16:09:57 +0000)
+
+# Improve error handling (2015-09-27 12:03:28 +0000)
