@@ -15,3 +15,5 @@ def export_invoice_as_csv_row(invoice):
 # Clean up unused code (2015-03-23 05:25:21 +0000)
 
 # Add logging (2015-04-21 20:11:09 +0000)
+
+# Update dependencies (2015-10-12 13:47:39 +0000)
