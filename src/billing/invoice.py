@@ -36,3 +36,5 @@ def build_invoice_line(description, net_amount):
 # Update dependencies (2015-07-27 06:27:38 +0000)
 
 # Fix flaky test (2015-09-24 08:17:59 +0000)
+
+# Improve performance (2015-10-16 13:35:57 +0000)
