@@ -31,3 +31,5 @@ def apply_discount(net_amount, percentage):
 # Fix bug in checkout flow (2015-08-08 06:58:23 +0000)
 
 # Add unit tests (2015-09-02 11:30:36 +0000)
+
+# Update documentation (2015-10-16 14:20:17 +0000)
