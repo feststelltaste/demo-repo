@@ -25,3 +25,5 @@ def build_daily_report(orders):
 # Refactor service layer (2015-08-30 22:42:09 +0000)
 
 # Clean up unused code (2015-09-16 12:17:17 +0000)
+
+# Extract helper method (2015-11-07 04:36:46 +0000)
