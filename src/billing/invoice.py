@@ -40,3 +40,5 @@ def build_invoice_line(description, net_amount):
 # Improve performance (2015-10-16 13:35:57 +0000)
 
 # Add new feature (2015-11-09 22:21:00 +0000)
+
+# Extract helper method (2015-11-13 02:52:36 +0000)
