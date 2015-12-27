@@ -18,3 +18,5 @@ class Product:
 # Extract helper method (2015-08-27 13:47:25 +0000)
 
 # Fix bug in checkout flow (2015-10-12 03:54:39 +0000)
+
+# Improve performance (2015-12-27 01:01:40 +0000)
