@@ -13,3 +13,5 @@
 - Fix null pointer exception (2015-05-26 06:46:17 +0000)
 
 - Sync schema with the previous change (2015-08-29 07:51:38 +0000)
+
+- Update documentation (2015-12-28 15:48:34 +0000)
