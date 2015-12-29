@@ -35,3 +35,5 @@ def apply_discount(net_amount, percentage):
 # Update documentation (2015-10-16 14:20:17 +0000)
 
 # Extract helper method (2015-12-01 04:35:48 +0000)
+
+# Add unit tests (2015-12-29 16:59:57 +0000)
