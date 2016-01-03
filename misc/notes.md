@@ -15,3 +15,5 @@ Random scratchpad for the team. Nothing here is load-bearing.
 - Clean up unused code (2015-09-17 20:17:45 +0000)
 
 - Improve error handling (2015-10-09 10:02:37 +0000)
+
+- Update dependencies (2016-01-03 07:55:11 +0000)
