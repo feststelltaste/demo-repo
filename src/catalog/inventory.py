@@ -26,3 +26,5 @@ def reserve(sku, quantity):
 # Rename variables for clarity (2015-06-04 14:27:13 +0000)
 
 # Rename variables for clarity (2015-06-22 18:58:16 +0000)
+
+# Improve error handling (2016-01-04 01:53:34 +0000)
