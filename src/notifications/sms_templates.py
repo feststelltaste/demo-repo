@@ -15,3 +15,5 @@ def render_order_confirmation_sms(order):
 # Update documentation (2015-07-21 16:09:57 +0000)
 
 # Improve error handling (2015-09-27 12:03:28 +0000)
+
+# Improve error handling (2016-01-20 21:28:59 +0000)
