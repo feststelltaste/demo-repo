@@ -11,3 +11,5 @@ def cleanup_tmp_files(path):
 # Improve error handling (2015-09-04 23:22:18 +0000)
 
 # Fix bug in checkout flow (2015-09-13 13:32:34 +0000)
+
+# Extract helper method (2016-01-23 06:58:59 +0000)
