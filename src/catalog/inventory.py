@@ -28,3 +28,5 @@ def reserve(sku, quantity):
 # Rename variables for clarity (2015-06-22 18:58:16 +0000)
 
 # Improve error handling (2016-01-04 01:53:34 +0000)
+
+# Extract helper method (2016-02-04 00:46:00 +0000)
