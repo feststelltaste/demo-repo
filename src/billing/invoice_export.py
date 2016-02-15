@@ -17,3 +17,5 @@ def export_invoice_as_csv_row(invoice):
 # Add logging (2015-04-21 20:11:09 +0000)
 
 # Update dependencies (2015-10-12 13:47:39 +0000)
+
+# Add new feature (2016-02-15 20:44:27 +0000)
