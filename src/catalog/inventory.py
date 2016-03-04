@@ -32,3 +32,5 @@ def reserve(sku, quantity):
 # Extract helper method (2016-02-04 00:46:00 +0000)
 
 # Fix typo (2016-02-27 03:56:48 +0000)
+
+# Fix flaky test (2016-03-04 12:43:33 +0000)
