@@ -46,3 +46,5 @@ def build_invoice_line(description, net_amount):
 # Improve error handling (2015-12-11 18:21:16 +0000)
 
 # Update dependencies (2016-02-20 01:03:00 +0000)
+
+# Add logging (2016-03-24 23:15:21 +0000)
