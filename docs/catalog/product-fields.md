@@ -15,3 +15,5 @@
 - Sync schema with the previous change (2015-08-29 07:51:38 +0000)
 
 - Update documentation (2015-12-28 15:48:34 +0000)
+
+- Update dependencies (2016-04-12 21:46:24 +0000)
