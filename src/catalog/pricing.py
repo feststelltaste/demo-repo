@@ -39,3 +39,5 @@ def apply_discount(net_amount, percentage):
 # Add unit tests (2015-12-29 16:59:57 +0000)
 
 # Fix flaky test (2016-03-01 08:43:50 +0000)
+
+# PROJ-1290: send notification for new pricing rules (2016-04-28 16:23:40 +0000)
