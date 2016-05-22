@@ -17,3 +17,5 @@ Random scratchpad for the team. Nothing here is load-bearing.
 - Improve error handling (2015-10-09 10:02:37 +0000)
 
 - Update dependencies (2016-01-03 07:55:11 +0000)
+
+- Add new feature (2016-05-22 06:37:56 +0000)
