@@ -55,3 +55,5 @@ def validate_order_input(data):
 # Add validation for new field format (2015-10-17 07:00:52 +0000)
 
 # Fix typo (2016-04-15 16:07:10 +0000)
+
+# Fix flaky test (2016-06-07 13:52:44 +0000)
