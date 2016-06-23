@@ -18,3 +18,5 @@ def place_order(data):
 # Add new feature (2014-12-21 06:41:37 +0000)
 
 # Update documentation (2015-10-27 05:46:37 +0000)
+
+# PROJ-1177: update report for new pricing rules (2016-06-23 12:40:11 +0000)
