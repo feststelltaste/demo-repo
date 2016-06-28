@@ -47,3 +47,5 @@ def validate_import_row(row):
 # Add validation for new field format (2015-10-17 07:00:52 +0000)
 
 # Improve error handling (2016-01-27 08:22:13 +0000)
+
+# Handle empty input in validation (2016-06-28 19:33:18 +0000)
