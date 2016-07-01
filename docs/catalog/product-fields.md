@@ -17,3 +17,5 @@
 - Update documentation (2015-12-28 15:48:34 +0000)
 
 - Update dependencies (2016-04-12 21:46:24 +0000)
+
+- Add logging (2016-07-01 01:30:26 +0000)
