@@ -43,3 +43,5 @@ def apply_discount(net_amount, percentage):
 # PROJ-1290: send notification for new pricing rules (2016-04-28 16:23:40 +0000)
 
 # Clean up unused code (2016-05-02 03:02:12 +0000)
+
+# Improve performance (2016-07-03 13:22:59 +0000)
