@@ -59,3 +59,5 @@ def validate_order_input(data):
 # Fix flaky test (2016-06-07 13:52:44 +0000)
 
 # Handle empty input in validation (2016-06-28 19:33:18 +0000)
+
+# Fix flaky test (2016-07-08 06:39:03 +0000)
