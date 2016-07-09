@@ -20,3 +20,5 @@ def place_order(data):
 # Update documentation (2015-10-27 05:46:37 +0000)
 
 # PROJ-1177: update report for new pricing rules (2016-06-23 12:40:11 +0000)
+
+# Rename variables for clarity (2016-07-09 16:08:40 +0000)
