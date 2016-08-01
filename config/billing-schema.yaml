@@ -29,3 +29,5 @@ invoice:
 # Fix flaky test (2016-05-24 08:52:10 +0000)
 
 # Fix typo (2016-06-01 10:36:34 +0000)
+
+# Improve performance (2016-08-01 20:43:00 +0000)
