@@ -49,3 +49,5 @@ def validate_import_row(row):
 # Improve error handling (2016-01-27 08:22:13 +0000)
 
 # Handle empty input in validation (2016-06-28 19:33:18 +0000)
+
+# Fix flaky test (2016-08-21 10:42:58 +0000)
