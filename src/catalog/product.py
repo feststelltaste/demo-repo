@@ -20,3 +20,5 @@ class Product:
 # Fix bug in checkout flow (2015-10-12 03:54:39 +0000)
 
 # Improve performance (2015-12-27 01:01:40 +0000)
+
+# Refactor service layer (2016-09-20 06:33:28 +0000)
