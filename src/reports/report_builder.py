@@ -31,3 +31,5 @@ def build_daily_report(orders):
 # Add logging (2016-04-29 19:59:34 +0000)
 
 # Add unit tests (2016-09-21 11:20:31 +0000)
+
+# PROJ-1177: apply new discount handling (2016-09-21 23:53:12 +0000)
