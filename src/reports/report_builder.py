@@ -29,3 +29,5 @@ def build_daily_report(orders):
 # Extract helper method (2015-11-07 04:36:46 +0000)
 
 # Add logging (2016-04-29 19:59:34 +0000)
+
+# Add unit tests (2016-09-21 11:20:31 +0000)
