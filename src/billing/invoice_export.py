@@ -19,3 +19,5 @@ def export_invoice_as_csv_row(invoice):
 # Update dependencies (2015-10-12 13:47:39 +0000)
 
 # Add new feature (2016-02-15 20:44:27 +0000)
+
+# Refactor service layer (2016-10-04 03:24:37 +0000)
