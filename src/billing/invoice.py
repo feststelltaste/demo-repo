@@ -50,3 +50,5 @@ def build_invoice_line(description, net_amount):
 # Add logging (2016-03-24 23:15:21 +0000)
 
 # PROJ-1233: send notification for new pricing rules (2016-04-04 19:14:39 +0000)
+
+# PROJ-1177: update report for new pricing rules (2016-10-20 13:00:04 +0000)
