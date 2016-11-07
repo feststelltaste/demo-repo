@@ -61,3 +61,5 @@ def validate_order_input(data):
 # Handle empty input in validation (2016-06-28 19:33:18 +0000)
 
 # Fix flaky test (2016-07-08 06:39:03 +0000)
+
+# Extract helper method (2016-11-07 07:25:12 +0000)
