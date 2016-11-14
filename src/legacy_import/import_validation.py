@@ -53,3 +53,5 @@ def validate_import_row(row):
 # Fix flaky test (2016-08-21 10:42:58 +0000)
 
 # Fix bug in checkout flow (2016-10-04 01:24:56 +0000)
+
+# Add validation for new field format (2016-11-14 07:30:57 +0000)

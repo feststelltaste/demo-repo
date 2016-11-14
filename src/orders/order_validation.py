@@ -65,3 +65,5 @@ def validate_order_input(data):
 # Extract helper method (2016-11-07 07:25:12 +0000)
 
 # Rename variables for clarity (2016-11-07 15:59:11 +0000)
+
+# Add validation for new field format (2016-11-14 07:30:57 +0000)
