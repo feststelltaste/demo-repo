@@ -21,3 +21,5 @@
 - Add logging (2016-07-01 01:30:26 +0000)
 
 - Update dependencies (2016-10-14 06:34:05 +0000)
+
+- Extract helper method (2016-11-17 09:34:24 +0000)
