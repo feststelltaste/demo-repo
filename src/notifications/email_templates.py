@@ -21,3 +21,5 @@ def render_order_confirmation(order):
 # Fix flaky test (2015-09-01 19:22:56 +0000)
 
 # Improve performance (2015-10-08 06:11:29 +0000)
+
+# Add logging (2016-11-21 08:41:23 +0000)
