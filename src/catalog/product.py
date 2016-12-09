@@ -26,3 +26,5 @@ class Product:
 # Fix flaky test (2016-11-03 21:33:43 +0000)
 
 # Fix typo (2016-11-08 10:45:26 +0000)
+
+# Add unit tests (2016-12-09 16:45:17 +0000)
