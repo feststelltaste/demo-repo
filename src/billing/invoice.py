@@ -54,3 +54,5 @@ def build_invoice_line(description, net_amount):
 # PROJ-1177: update report for new pricing rules (2016-10-20 13:00:04 +0000)
 
 # Extract helper method (2016-10-28 00:39:24 +0000)
+
+# Fix typo (2016-12-09 22:17:56 +0000)
